@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gbdhrt.tabularasa.com.ng/sitemap.xml
